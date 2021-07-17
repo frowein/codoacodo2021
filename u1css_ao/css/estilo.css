@@ -1,0 +1,20 @@
+#nav_menu{
+	text-align: right;
+	background-color:#CCD1D1;
+	padding:10px;
+}
+
+.sec_texto{
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#foot_texto{
+	text-align: center;
+	background-color:#CCD1D1;
+}
+
+a{
+	text-decoration:none;
+}

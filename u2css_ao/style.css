@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: flex-start;
+}
+
+p{
+    font-size: 45px;
+}
+
+.box{
+    background-color: red;
+    width: 310px;
+    height: 310px;
+    color: yellow;
+    margin: 10px;
+}
+
+#blackbox{
+    background-color: black;
+    width: 310px;
+    height: 310px;
+    color: white;
+    margin: 10px;
+}
